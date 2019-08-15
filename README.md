@@ -10,7 +10,7 @@
 
 注：algorithm8貌似只能收敛到局部最优点
 
-I have apply some algorithms of the book <optimization algorithms on matrix manifold> with R 
+I have applied some algorithms of the book optimization algorithms on matrix manifold with R 
 
 + algorithm3: line search method
 + algorithm8: Newton method
